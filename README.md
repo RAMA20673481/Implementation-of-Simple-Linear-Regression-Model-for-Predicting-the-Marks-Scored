@@ -92,7 +92,7 @@ RegisterNumber:  212224240129
 ![Screenshot 2025-05-01 214923](https://github.com/user-attachments/assets/b0d5f20e-1314-48c6-8140-76a01d0fe484)
 
 
-Predication values of X and Y
+## Predication values of X and Y
 
 
 ![Screenshot 2025-05-01 215028](https://github.com/user-attachments/assets/398ebc69-d2f4-49ed-b704-ef281642b870)

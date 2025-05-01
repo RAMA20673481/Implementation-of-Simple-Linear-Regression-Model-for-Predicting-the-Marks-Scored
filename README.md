@@ -67,24 +67,26 @@ RegisterNumber:  212224240129
 ```
 
 ## Output:
-Dataset
+## Dataset
 
 
 ![Screenshot 2025-05-01 214036](https://github.com/user-attachments/assets/2c2718f1-6dcb-4065-8aa2-97c867cee045)
 
 
 
-Head Values
+## Head Values
 
 
 ![Screenshot 2025-05-01 214309](https://github.com/user-attachments/assets/70edcfbd-5583-407a-ad9b-c25297437647)
 
-Tail Values
+## Tail Values
+
+
 ![Screenshot 2025-05-01 214431](https://github.com/user-attachments/assets/98e60c7d-68a9-41b3-b89c-a2c5fa2eb375)
 
 
 
-X and Y values
+## X and Y values
 
 
 ![Screenshot 2025-05-01 214923](https://github.com/user-attachments/assets/b0d5f20e-1314-48c6-8140-76a01d0fe484)
@@ -96,19 +98,19 @@ Predication values of X and Y
 ![Screenshot 2025-05-01 215028](https://github.com/user-attachments/assets/398ebc69-d2f4-49ed-b704-ef281642b870)
 
 
-MSE,MAE and RMSE
+## MSE,MAE and RMSE
 
 
 ![Screenshot 2025-05-01 215132](https://github.com/user-attachments/assets/d2965bd6-9b70-455a-994f-ec165e2c33da)
 
 
-Training Set
+## Training Set
 
 
 ![Screenshot 2025-05-01 215506](https://github.com/user-attachments/assets/07dcf91f-dab5-473f-8e0e-7b34985118c6)
 
 
-Testing Set
+## Testing Set
 
 
 ![Screenshot 2025-05-01 215630](https://github.com/user-attachments/assets/394aaffc-7ef6-4b58-8646-1ae7cce8a84f)
